@@ -1,6 +1,6 @@
 # Proyecto Final · Sistemas Operativos (750001C)
 
-**Universidad del Valle** · Tecnología en Desarrollo de Software · Semestre 2-2026  
+**Universidad del Valle** · Tecnología en Desarrollo de Software · Semestre 3-2026  
 **Docente:** Mg. José Alexander Castañeda Muñoz  
 **Grupo:** Grupo 01  
 **Repositorio:** [yustinramos/MV-kubuntu](https://github.com/yustinramos/MV-kubuntu)

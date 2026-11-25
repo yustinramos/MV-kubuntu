@@ -35,8 +35,8 @@ Este sitio documenta el diseño, instalación, administración y despliegue de u
 
 | Característica | Especificación |
 | --- | --- |
-| **Distribución y versión** | Kubuntu 24.04 LTS (Noble Numbat) |
-| **Arquitectura** | `amd64` (x86_64) |
+| **Distribución y versión** | Kubuntu 26.10 (*Stonking Stingray*) |
+| **Arquitectura** | `amd64` (`x86_64`) |
 | **Entorno de escritorio** | KDE Plasma (modo gráfico) |
 | **Rol en el proyecto** | Estación cliente para administración remota por SSH, pruebas de red y entorno gráfico |
 | **Almacenamiento** | Disco virtual dinámico (`VDI`) con sistema de archivos `ext4` |
@@ -45,12 +45,11 @@ Este sitio documenta el diseño, instalación, administración y despliegue de u
 
 | Característica | Especificación |
 | --- | --- |
-| **Distribución y versión** | Debian GNU/Linux 13.7.0 (*Trixie*) · NETINST |
-| **Arquitectura** | `amd64` (x86_64) |
+| **Distribución y versión** | Debian GNU/Linux 13 (*Trixie*) · NETINST |
+| **Arquitectura** | `amd64` (`x86_64`) |
 | **Modo de arranque** | Consola pura (`multi-user.target`, sin entorno gráfico) |
 | **Rol en el proyecto** | Servidor de servicios SSH, firewall UFW, ejecución de procesos y contenedores |
 | **Disco y particionado (`/dev/sda` · 26.8 GB)** | `/` (`12.0 GB`, `ext4`), `/var` (`4.0 GB`, `ext4`), `swap` (`2.0 GB`), `/home` (`8.8 GB`, `ext4`) |
-
 ---
 
 ## 4. Cuadro Comparativo del Instalador

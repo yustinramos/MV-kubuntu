@@ -50,6 +50,7 @@ Este sitio documenta el diseño, instalación, administración y despliegue de u
 | **Modo de arranque** | Consola pura (`multi-user.target`, sin entorno gráfico) |
 | **Rol en el proyecto** | Servidor de servicios SSH, firewall UFW, ejecución de procesos y contenedores |
 | **Disco y particionado (`/dev/sda` · 26.8 GB)** | `/` (`12.0 GB`, `ext4`), `/var` (`4.0 GB`, `ext4`), `swap` (`2.0 GB`), `/home` (`8.8 GB`, `ext4`) |
+
 ---
 
 ## 4. Cuadro Comparativo del Instalador

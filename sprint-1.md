@@ -42,8 +42,7 @@ En este primer sprint se realizó la instalación, el particionado manual, la co
 ![Red en Kubuntu y Debian](img/red-maquinas.png)
 
 ### 3.4. Acceso remoto por SSH desde `g01-grafica` hacia `g01-consola`
-![Conexión SSH](img/conexion-ssh.png)
-
+![Conexión SSH](img/imgconexion-ssh.png)
 ### 3.5. Instantáneas (*snapshots*) creadas en VirtualBox
 ![Instantáneas de las máquinas virtuales](img/instantaneas-vm.png)
 
